@@ -1,0 +1,5 @@
+,return,trades,description
+Buy & Hold,67.89983740497537,12,Equal-weighted portfolio
+Momentum,4.60749099358745,2124,20-day momentum signals
+Mean Reversion,-3.675167158716544,319,MA crossover signals
+Pairs Trading,5.130159999999998,538,Cointegration-based pairs
